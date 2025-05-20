@@ -1,0 +1,68 @@
+/* ShowEmployeeDetail.css */
+.showEmployeeDetails {
+  padding: 2rem;
+  background-color: #f8f9fa;
+}
+
+.table {
+  width: 100%;
+  margin-top: 2rem;
+  border-collapse: collapse;
+}
+
+.table thead {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+.table th,
+.table td {
+  padding: 1rem;
+  border: 1px solid #dee2e6;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table tr:hover {
+  background-color: #e9ecef;
+}
+
+.btn-outline-danger {
+  margin-top: 1rem;
+}
+
+.btn-outline-info {
+  margin-top: 2rem;
+}
+
+.display-6-bold {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.m-auto {
+  margin: 0 auto;
+}
+
+.col-md-10 {
+  max-width: 80%;
+}
+
+.col-md-8 {
+  max-width: 60%;
+}
+
+.col-md-6 {
+  max-width: 50%;
+}

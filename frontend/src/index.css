@@ -1,0 +1,7 @@
+/* src/index.css or your main CSS file */
+html, body {
+    height: 100%;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+  }
+  

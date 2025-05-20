@@ -1,0 +1,21 @@
+.Show_EmployeeList .search-bar {
+  margin: 20px 0;
+  display: flex;
+  justify-content: flex-end; /* Aligns the search bar to the right */
+}
+
+.Show_EmployeeList .search-bar input {
+  width: 200px; /* Adjust width as needed */
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
